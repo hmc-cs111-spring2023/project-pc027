@@ -50,6 +50,8 @@ the same folder to list out my thoughts so far on the semantics of the program. 
 also helps organize my thoughts on dealing with any tiebreakers necessary in parsing
 the document using the end-user's instruction.
 
+Here is a direct link to the [docs folder](https://github.com/hmc-cs111-spring2023/organizer-pc027/tree/main/docs).
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
